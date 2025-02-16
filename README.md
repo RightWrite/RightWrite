@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to My Profile
+Surprisingly, I'm not a developer. I'm a writer & copyeditor/proofreader.
+
+I discovered lots of grammatical & structural errors in app descriptions on both Google Play & F-Droid repos. So, I signed up for GitHub. 
+
+I'm available for projects that will benefit from proper English grammar.
+
+I'm looking forward to helping software developers transform their writing into a work of art.
+
+<!--This appears to be for comments, just like HTML.-->
 
 <!--
 **RightWrite/RightWrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

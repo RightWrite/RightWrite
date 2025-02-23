@@ -69,14 +69,14 @@ Note: The GW app also highlights misspelled words.
 ## Images
 
 ### Adding Images
-![Image Description](/home/mark/Data/Images/Wallpaper/forest.jpg)
+![Image Description](/images/forest.jpg)
 
 Remember, for images to display correctly, there can't be a space between the closing bracket & starting parenthesis.
 
 ### Linking Images
 You can create links to images. That can be done like this:<br>
 
-[![Link To Image](/home/mark/Data/Images/Wallpaper/forest.jpg "Forest Image")](http://www.richessence.com/)
+[![Link To Image](/images/forest.jpg "Forest Image")](http://www.richessence.com/)
 
 
 ## Code

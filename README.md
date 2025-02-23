@@ -9,9 +9,10 @@ Currently, I’m available for projects that will benefit from proper English gr
 
 The specific areas where I can be of service include:
 
-- *README.md* content creation/optimization & formatting
+- *README.md* content creation & optimization
 - app descriptions on *F-Droid* & *Google Play*
 - app wikis & PDFs
+- Markdown documents
 
 Regarding *README.md* files, I can craft magnificent written pieces geared toward a general English-speaking audience, or any specific audience you choose. Besides that, I can write or optimize existing app descriptions for app stores, such as *Google Play* & *F-Droid*. 
 

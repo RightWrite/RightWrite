@@ -76,7 +76,7 @@ Remember, for images to display correctly, there can't be a space between the cl
 ### Linking Images
 You can create links to images. That can be done like this:<br>
 
-[![Link To Image](/images/forest.jpg "Forest Image")](http://www.richessence.com/)
+[![Link To Image](/images/forest.jpg "Forest Image")](http://www.google.com/)
 
 
 ## Code
@@ -105,10 +105,10 @@ ___
 ## Hyperlinks
 These are simple. Just enclose the link text in brackets. Immediately after (no space), the URL appears in parentheses.
 
-[Link Title](http://www.richessence.com)
+[Link Title](http://www.DuckDuckGo.com)
 
 You can also make the hyperlinks by enclosing the URL in pointer brackets (<>) like this:</br>
-<http://www.richessence.com>
+<http://www.DuckDuckGo.com>
 
 The same can be done for email: <name@website.org>.
 

@@ -27,6 +27,8 @@ Feel free to drop me a line.
 
 My email address is: **MarkMRich72[--at--]gmail[--DOT--]com**.
 
+![forest](https://github.com/user-attachments/assets/0999d06c-5b23-4482-acff-5626e3e0c3a2)
+
 <!--This appears to be for comments, just like HTML.-->
 
 <!--

@@ -1,3 +1,4 @@
+![GitHub-Banner](https://github.com/user-attachments/assets/d497d379-6d4e-46e3-8691-2ca3b369b8c4)
 ### ✍🏻 - Welcome to RightWrite's Profile - ✍🏻
 Surprisingly, I’m not a software developer. 
 
@@ -27,8 +28,6 @@ I look forward to helping you transform your app description into a work of art.
 Feel free to drop me a line.
 
 My email address is: **MarkMRich72[--at--]gmail[--DOT--]com**.
-
-![forest](https://github.com/user-attachments/assets/0999d06c-5b23-4482-acff-5626e3e0c3a2)
 
 <!--This appears to be for comments, just like HTML.-->
 

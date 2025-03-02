@@ -15,13 +15,15 @@ The specific areas where I can be of service include:
 - app wikis & PDFs
 - Markdown documents
 
-Regarding *README.md* files, I can craft magnificent written pieces geared toward a general English-speaking audience, or any specific audience you choose. Besides that, I can write or optimize existing app descriptions for app stores, such as *Google Play* & *F-Droid*. 
+Regarding *README.md* files, I can craft magnificent written pieces geared toward an English-speaking audience, or any specific audience you choose. Besides that, I can write or optimize existing app descriptions for app stores, such as *Google Play* & *F-Droid*. 
 
 A properly written app description will increase the chances of potential users downloading your app; while a poorly formed description will deter them.
 
 Eventually, I’ll delve into the creation of app wikis & PDF manuals. Although, this is a future endeavor because I’m still learning how to navigate GitHub, as of February 2025.
 
 My service is especially useful to those whose native language isn’t English. Yet, even if English is your first language, I can refine your writing.
+
+Here is my [LinkedIn profile](https://www.linkedin.com/in/markrich72/).
 
 I look forward to helping you transform your app description into a work of art.
 
